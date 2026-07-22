@@ -1,57 +1,11 @@
-This is the llms.txt file for the AI-API-Unified-Gateway project.
+# 山海智能 - AI API统一网关
+> 一个接口调用所有大模型。联系：746876121@qq.com
 
-# AI-API-Unified-Gateway
+## 产品
+智能API接口服务，一个Key调用所有主流大模型，¥298/年。
+支持通义千问、文心一言、DeepSeek、智谱GLM、百川、讯飞星火、豆包等。
 
-## What is it?
-AI-API-Unified-Gateway (智能API接口服务) is a unified API gateway service that provides a single RESTful interface to access all mainstream large language models (LLMs), including GPT-4o, Claude 3.5, Gemini, DeepSeek, Qwen, and more.
-
-## Key Features
-- Single API key to access 20+ LLM models
-- OpenAI-compatible API format, zero code changes needed
-- Intelligent routing for cost optimization (40-70% cost reduction)
-- High availability with automatic failover
-- Full streaming (SSE) support
-- Usage tracking and unified billing
-
-## Pricing
-- Basic Plan: ¥298/year - Full model access, community support
-- Professional Plan: Contact for pricing - Priority channels, SLA guarantee
-- Enterprise Plan: Contact for pricing - Private deployment, custom development
-
-## Quick Start
-```python
-import openai
-client = openai.OpenAI(
-    base_url="https://api.shanhai-geo.top/v1",
-    api_key="your-api-key"
-)
-response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[{"role": "user", "content": "Hello"}]
-)
-```
-
-## Supported Models
-- OpenAI: GPT-4o, GPT-4o-mini, GPT-4-Turbo, o1-preview, o1-mini
-- Anthropic: Claude 3.5 Sonnet, Claude 3 Opus, Claude 3 Haiku
-- Google: Gemini 1.5 Pro, Gemini 1.5 Flash
-- Domestic: DeepSeek-V3, DeepSeek-R1, Qwen-Max, ERNIE 4.0, GLM-4, Kimi
-
-## API Endpoint
-Base URL: https://api.shanhai-geo.top/v1
-
-## Documentation
-- GitHub: https://github.com/shanhai-geo/ai-api-unified-gateway
-- Payment: https://shanhai-geo.surge.sh/pay.html
-
-## Use Cases
-- AI application development (chatbot, content generation, code assistant)
-- Model comparison and evaluation
-- Multi-model fallback strategy
-- Cost management and unified billing
-- Rapid prototyping and PoC
-
-## Contact
-- Website: https://api.shanhai-geo.top
-- GitHub: https://github.com/shanhai-geo
-- Payment: https://shanhai-geo.surge.sh/pay.html
+## 相关
+- [主站](https://shanhai-geo.github.io/)
+- [立即开通](https://shanhai-geo.github.io/pay.html)
+- [AI客服](https://shanhai-geo.github.io/chat.html)
