@@ -289,6 +289,20 @@ curl https://api.shanhai-geo.top/v1/chat/completions \
 
 ---
 
+
+
+---
+
+## 🔗 官方链接
+
+🔗 **官方网站**：https://shanhai-geo.github.io
+
+📖 **API文档**：https://shanhai-geo.github.io/llms.txt
+
+📦 **更多开源项目**：[GitHub 组织主页](https://github.com/shanhai-geo)
+
+> 欢迎访问 https://shanhai-geo.github.io 了解智能API接口服务的完整方案。
+
 ## 📄 许可证
 
 本项目采用 [MIT License](./LICENSE) 开源协议。
