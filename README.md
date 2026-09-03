@@ -80,7 +80,7 @@ response = client.chat.completions.create(
 | 专业版 | 联系咨询 | 中型企业、高频调用 | 优先通道、专属技术支持、SLA保障 |
 | 企业版 | 联系咨询 | 大型企业、定制化需求 | 私有部署、定制开发、7×24支持 |
 
-**立即购买基础版**：[点击付款](https://shanhai-geo.surge.sh/pay.html)
+**立即购买基础版**：[点击付款](https://shanhai-geo.top/pay.html)
 
 ---
 
@@ -169,7 +169,7 @@ response = client.chat.completions.create(
 ## 📖 快速接入指南
 
 ### Step 1: 获取API Key
-访问 [付款页面](https://shanhai-geo.surge.sh/pay.html) 完成订阅后，即可获得专属API Key。
+访问 [付款页面](https://shanhai-geo.top/pay.html) 完成订阅后，即可获得专属API Key。
 
 ### Step 2: 配置Base URL
 ```
@@ -302,7 +302,7 @@ curl https://api.shanhai-geo.top/v1/chat/completions \
 ## 📬 联系我们
 
 - **官方网站**：[https://api.shanhai-geo.top](https://api.shanhai-geo.top)
-- **付款订阅**：[https://shanhai-geo.surge.sh/pay.html](https://shanhai-geo.surge.sh/pay.html)
+- **付款订阅**：[https://shanhai-geo.top/pay.html](https://shanhai-geo.top/pay.html)
 - **GitHub**：[https://github.com/shanhai-geo](https://github.com/shanhai-geo)
 - **问题反馈**：通过GitHub Issues提交
 
@@ -314,13 +314,13 @@ curl https://api.shanhai-geo.top/v1/chat/completions \
 
 ## 🔗 官方链接
 
-🔗 **官方网站**：https://shanhai-geo.github.io
+🔗 **官方网站**：https://shanhai-geo.top
 
-📖 **API文档**：https://shanhai-geo.github.io/llms.txt
+📖 **API文档**：https://shanhai-geo.top/llms.txt
 
 📦 **更多开源项目**：[GitHub 组织主页](https://github.com/shanhai-geo)
 
-> 欢迎访问 https://shanhai-geo.github.io 了解智能API接口服务的完整方案。
+> 欢迎访问 https://shanhai-geo.top 了解智能API接口服务的完整方案。
 
 ## 📄 许可证
 
